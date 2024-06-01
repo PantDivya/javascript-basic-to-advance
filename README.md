@@ -2,13 +2,13 @@
 
 <h1>Topic: How Javascript works and Execution Context</h1></br>
 <h2> "Everything in javascript happens inside the execution context"</h2></br></br>
-<h5>Execution Context</h5></br>
+<h3><b>Execution Context</b></h3></br>
 <p><b>Execution Context</b> is like a big box which has two components:</p></br>
 <p><b>1. Memory component</b></p></br>
 <p>This is the place where all the variables and functions are stored in key value pair.</p></br>
 <p>Example: a: 10, fn: {}</p></br>
 <p>This component has a word known as variable environment.</p></br>
-<p>2. Code Component</p></br>
+<p><b>2. Code Component</b></p></br>
 This is the place where the code is executed one line at a time.
 It is also known an thread of execution.
 </br></br>
